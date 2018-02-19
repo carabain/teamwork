@@ -1,4 +1,11 @@
+# General
+target/
+
+# IntelliJ
+ .idea/
+ .iml
+
+# Eclipse
 .classpath
 .project
 .settings/
-target/
