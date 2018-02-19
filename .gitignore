@@ -2,8 +2,8 @@
 target/
 
 # IntelliJ
- .idea/
- .iml
+.idea/
+*.iml
 
 # Eclipse
 .classpath
